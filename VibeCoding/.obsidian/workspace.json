@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트/할일앱/체크리스트.md",
+                "file": "프로젝트/할일앱/의사결정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "체크리스트 의 나가는 링크"
+              "title": "의사결정 의 나가는 링크"
             }
           },
           {
@@ -204,8 +204,17 @@
   "active": "2aae4bdba1802eda",
   "lastOpenFiles": [
     "프로젝트/할일앱/설계/아키텍처.md",
-    "프로젝트/할일앱/체크리스트.md",
+    "프로젝트/할일앱/세션로그/2026-06-03.md",
+    "프로젝트/할일앱/의사결정.md",
     "프로젝트/할일앱/프로젝트-개요.md",
+    "프로젝트/할일앱/체크리스트.md",
+    "템플릿/세션로그.md",
+    "템플릿/프로젝트-기획.md",
+    "MEMO.md",
+    "홈.md",
+    "프로젝트/프로젝트.md",
+    "프로젝트/테스트.md",
+    "프로젝트/할일앱/에러로그.md",
     "무제.base"
   ]
 }
