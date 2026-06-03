@@ -28,30 +28,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VibeCoding/프로젝트/테스트.md",
+                "file": "VibeCoding/프로젝트/할일앱/설계/아키텍처.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "테스트"
-            }
-          },
-          {
-            "id": "b8193aaaf146dcb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VibeCoding/프로젝트/테스트.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "테스트"
+              "title": "아키텍처"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "09f542df2e29b1c2",
@@ -231,12 +217,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b8193aaaf146dcb2",
+  "active": "b77d90d2fd707935",
   "lastOpenFiles": [
-    "VibeCoding/템플릿/프로젝트-기획.md",
+    "VibeCoding/무제.base",
+    "VibeCoding/프로젝트/할일앱/프로젝트-개요.md",
+    "VibeCoding/프로젝트/할일앱/설계/아키텍처.md",
     "VibeCoding/프로젝트/테스트.md",
-    "VibeCoding/레퍼런스",
+    "VibeCoding/프로젝트/할일앱/설계/무제",
+    "VibeCoding/프로젝트/할일앱/의사결정.md",
+    "VibeCoding/프로젝트/할일앱/에러로그.md",
+    "VibeCoding/프로젝트/할일앱/체크리스트.md",
+    "VibeCoding/프로젝트/할일앱/세션로그",
+    "VibeCoding/프로젝트/할일앱/설계",
+    "VibeCoding/템플릿/프로젝트-기획.md",
+    "VibeCoding/프로젝트/무제 2/무제 2.md",
+    "VibeCoding/프로젝트/무제 2/무제 1.md",
+    "VibeCoding/프로젝트/무제 2/무제.md",
     "VibeCoding/홈.md",
+    "레퍼런스.md",
+    "무제 1",
+    "VibeCoding/프로젝트/할일앱",
+    "VibeCoding/프로젝트/무제 2",
+    "VibeCoding/레퍼런스",
     "VibeCoding/템플릿",
     "VibeCoding/프로젝트",
     "VibeCoding"
